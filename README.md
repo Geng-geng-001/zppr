@@ -1,2 +1,0 @@
-# zppr
-python
